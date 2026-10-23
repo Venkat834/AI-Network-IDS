@@ -1,8 +1,8 @@
-\# Network Intrusion Detection System (IDS)
+ Network Intrusion Detection System (IDS)
 
 
 
-\## 1. Project Overview
+ 1. Project Overview
 
 
 
@@ -14,7 +14,7 @@ This project implements a Python-based network traffic analysis and intrusion de
 
 
 
-\## 2. Objectives
+ 2. Objectives
 
 
 
@@ -32,7 +32,7 @@ This project implements a Python-based network traffic analysis and intrusion de
 
 
 
-\## 3. Technology Stack
+ 3. Technology Stack
 
 
 
@@ -52,7 +52,7 @@ This project implements a Python-based network traffic analysis and intrusion de
 
 
 
-\## 4. Project Structure
+ 4. Project Structure
 
 
 
@@ -96,7 +96,7 @@ AI-Network-IDS/
 
 
 
-\## 5. Setup
+ 5. Setup
 
 
 
@@ -130,7 +130,7 @@ python -m pip install -r requirements.txt
 
 
 
-\## 6. How to Run
+ 6. How to Run
 
 
 
@@ -158,7 +158,7 @@ The dashboard normally opens at `http://localhost:8501`.
 
 
 
-\## 7. Detection Rules
+ 7. Detection Rules
 
 
 
@@ -184,7 +184,7 @@ The prototype includes an Isolation Forest model trained on scaled source-IP tra
 The current demonstration uses four synthetic source-IP records with a contamination setting of 0.25. The results illustrate how unsupervised anomaly detection can complement rule-based detection. They are not validated attack classifications, and an anomaly does not necessarily indicate malicious activity.
 
 
-\## 8. Synthetic Dataset and Evaluation
+ 8. Synthetic Dataset and Evaluation
 
 
 
@@ -216,7 +216,7 @@ These metrics apply only to four designed synthetic examples. They must not be i
 
 
 
-\## 9. Limitations
+ 9. Limitations
 
 
 
@@ -238,7 +238,7 @@ These metrics apply only to four designed synthetic examples. They must not be i
 
 
 
-\## 10. Future Improvements
+ 10. Future Improvements
 
 
 
@@ -259,7 +259,7 @@ These metrics apply only to four designed synthetic examples. They must not be i
 
 
 
-\## 11. Ethical Use
+11. Ethical Use
 
 
 
