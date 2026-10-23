@@ -1,0 +1,4 @@
+src_ip,alert,severity,confidence,reason
+198.51.100.20,Possible Port Scan,High,High,Source contacted 15 distinct destination ports.
+198.51.100.30,Possible DoS/Flooding,High,High,120 packets observed at 1008.40 packets/second.
+198.51.100.40,Repeated TCP Connection Attempts,Medium,Medium,15 TCP SYN packets sent to 1 distinct destination port(s).

@@ -1,0 +1,5 @@
+src_ip,packets,bytes,duration,packet_rate,unique_dst_ports,protocols,tcp_syn_packets,ml_prediction,anomaly_score,ml_result
+192.0.2.10,10,540,9.0,1.11,1,TCP,10,1,0.04530479413343347,Typical
+198.51.100.20,15,810,1.4,10.71,15,TCP,15,1,0.057823959341932574,Typical
+198.51.100.30,120,6480,0.119,1008.4,1,TCP,120,-1,-0.1359143824003003,Anomaly
+198.51.100.40,15,810,2.8,5.36,1,TCP,15,1,0.14312109609916973,Typical

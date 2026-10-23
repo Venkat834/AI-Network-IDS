@@ -1,0 +1,5 @@
+pandas
+scapy
+scikit-learn
+streamlit
+matplotlib
