@@ -44,7 +44,7 @@ This project implements a Python-based network traffic analysis and intrusion de
 
 \- Streamlit
 
-\- Matplotlib (installed; not currently required by the dashboard code)
+\- Matplotlib 
 
 \ Scikit-learn
 - Isolation Forest (unsupervised anomaly detection)
@@ -56,7 +56,7 @@ This project implements a Python-based network traffic analysis and intrusion de
 
 
 
-```text
+
 
 AI-Network-IDS/
 
@@ -92,7 +92,7 @@ AI-Network-IDS/
 
 └── README.md
 
-```
+
 
 
 
